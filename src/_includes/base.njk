@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ title or "Trump Boogies — A Comprehensive Archive" }}</title>
+    <meta name="description" content="A comprehensive, searchable archive of false statements made during the U.S. presidency of Donald J. Trump, including the date, sources, and an analysis of the logical fallacy in each." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700;900&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header" role="banner">
+      <div class="container">
+        <p class="site-eyebrow">A Public Record</p>
+        <h1 class="site-title">Trump Boogies</h1>
+        <p class="site-subtitle">A Comprehensive Archive of Presidential Falsehoods</p>
+      </div>
+    </header>
+
+    <nav class="site-nav" aria-label="Section navigation">
+      <div class="container">
+        <ul>
+          <li><a href="#archive">The Archive</a></li>
+          <li><a href="#about">About</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <main id="content" class="container" role="main">
+      {{ content | safe }}
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="container">
+        <p>&copy; {{ "" | currentYear }} Trump Boogies &middot; An Educational, Non-Partisan Public Record</p>
+      </div>
+    </footer>
+
+    <script src="/js/filter.js" defer></script>
+  </body>
+</html>

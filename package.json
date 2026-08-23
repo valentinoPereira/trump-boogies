@@ -1,0 +1,14 @@
+{
+  "name": "trump-boogies",
+  "version": "1.0.0",
+  "description": "A comprehensive, searchable archive of false statements made during the U.S. presidency of Donald J. Trump.",
+  "scripts": {
+    "start": "eleventy --serve --port=8080",
+    "build": "eleventy",
+    "clean": "rimraf _site"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

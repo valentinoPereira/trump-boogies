@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "lie": "I will build a great, great wall on our southern border, and I will have Mexico pay for that wall. Mark my words.",
+    "date": "2015-06-16",
+    "year": 2015,
+    "sources": ["The Washington Post", "PolitiFact"],
+    "fallacy": "Broken Promise / Unfulfilled Commitment — The wall was not fully built and Mexico never paid for any portion of it."
+  },
+  {
+    "id": 2,
+    "lie": "I won the popular vote by a tremendous margin. We had a massive landslide victory in the Electoral College.",
+    "date": "2016-11-27",
+    "year": 2016,
+    "sources": ["The Washington Post", "FactCheck.org"],
+    "fallacy": "Falsehood / Fabrication — Hillary Clinton won the popular vote by approximately 2.9 million votes."
+  },
+  {
+    "id": 3,
+    "lie": "I think we've had the largest audience ever to witness an inauguration — period — both in person and around the globe.",
+    "date": "2017-01-21",
+    "year": 2017,
+    "sources": ["The New York Times", "NPR", "PolitiFact"],
+    "fallacy": "Exaggeration / False Comparison — Aerial photos and transit data showed attendance was significantly lower than the 2009 inauguration of Barack Obama."
+  },
+  {
+    "id": 4,
+    "lie": "We are also getting rid of the Defense sequester, which is a very, very important thing. … Because of our military spending bill, what was being done, we are going to be doing a lot more than we were doing before.",
+    "date": "2017-02-27",
+    "year": 2017,
+    "sources": ["The Washington Post"],
+    "fallacy": "Falsehood — The 2018 budget preserved the Budget Control Act spending caps; no sequester was eliminated."
+  },
+  {
+    "id": 5,
+    "lie": "And the day before, voter fraud — 3 to 5 million people, people that are dead. And I won by a massive, massive margin. They said 3 to 5 million.",
+    "date": "2017-02-16",
+    "year": 2017,
+    "sources": ["The Washington Post", "CNN", "FactCheck.org"],
+    "fallacy": "Baseless Accusation / Straw Man — No credible evidence of 3 to 5 million fraudulent votes has ever been presented; multiple studies found no widespread fraud."
+  },
+  {
+    "id": 6,
+    "lie": "The murder rate in our country is the highest it's been in 45 to 50 years.",
+    "date": "2017-02-07",
+    "year": 2017,
+    "sources": ["The Washington Post", "PolitiFact"],
+    "fallacy": "Falsehood — FBI data showed the U.S. murder rate in 2016 was near historic lows, not at a 45–50 year high."
+  },
+  {
+    "id": 7,
+    "lie": "Obama had his eight years, and he didn't do it. He didn't do it. I don't know why. He talked about it. But he didn't do it.",
+    "date": "2017-03-20",
+    "year": 2017,
+    "sources": ["The Washington Post"],
+    "fallacy": "Misrepresentation — The Affordable Care Act was a major legislative achievement of the Obama administration; the claim ignores that record."
+  },
+  {
+    "id": 8,
+    "lie": "Last year, the trade deficit with China was roughly $500 billion. This is not a free trade situation. It's foolish trade. It's stupid trade.",
+    "date": "2018-04-04",
+    "year": 2018,
+    "sources": ["The Washington Post", "AP"],
+    "fallacy": "Exaggeration — The actual U.S. trade deficit with China in 2017 was approximately $375 billion, not $500 billion."
+  },
+  {
+    "id": 9,
+    "lie": "I never said the repeal and replace of Obamacare would be easy. I said it would be tough — very tough. But we're going to get it done.",
+    "date": "2017-07-19",
+    "year": 2017,
+    "sources": ["The Washington Post"],
+    "fallacy": "Falsehood — On multiple occasions Trump said repealing and replacing Obamacare would be easy, including in March 2017 statements."
+  },
+  {
+    "id": 10,
+    "lie": "We have it under control. It's going to be just fine. … It's one person coming in from China, and we have it under control. It's going to be just fine.",
+    "date": "2020-01-22",
+    "year": 2020,
+    "sources": ["The Washington Post", "FactCheck.org", "CNBC"],
+    "fallacy": "False Reassurance / Wishful Thinking — The COVID-19 outbreak escalated into a global pandemic that the U.S. was not prepared for."
+  },
+  {
+    "id": 11,
+    "lie": "It is going to disappear. It is disappearing.",
+    "date": "2020-03-19",
+    "year": 2020,
+    "sources": ["The Washington Post", "The New York Times"],
+    "fallacy": "Wishful Thinking / False Reassurance — COVID-19 did not 'disappear' and continued to spread widely in the following months."
+  },
+  {
+    "id": 12,
+    "lie": "If we didn't catch the case early, and if we didn't do the right things, it would have been a mass death — a mass death like you have never seen in this country.",
+    "date": "2020-03-20",
+    "year": 2020,
+    "sources": ["The Washington Post", "PolitiFact"],
+    "fallacy": "Contradiction — This statement directly contradicts his earlier claims that the virus was 'under control' and 'disappearing.'"
+  },
+  {
+    "id": 13,
+    "lie": "The 2020 election was rigged. We won by a landslide. This was a stolen election.",
+    "date": "2020-11-04",
+    "year": 2020,
+    "sources": ["The Washington Post", "The New York Times", "Reuters"],
+    "fallacy": "Baseless Accusation / Big Lie — Dozens of courts, state election officials, and the Justice Department found no evidence of widespread fraud; Joe Biden won the election."
+  },
+  {
+    "id": 14,
+    "lie": "I am a very stable genius.",
+    "date": "2018-01-06",
+    "year": 2018,
+    "sources": ["The Washington Post", "The New York Times"],
+    "fallacy": "Self-Serving Bias / Non-Sequitur — An unsupported self-assessment that adds no evidence to refute the underlying questions about his fitness."
+  },
+  {
+    "id": 15,
+    "lie": "I don't take any responsibility at all.",
+    "date": "2020-03-13",
+    "year": 2020,
+    "sources": ["The Washington Post", "AP", "The New York Times"],
+    "fallacy": "Evasion of Responsibility — A commander-in-chief's statement during an escalating public health crisis, contradicting the expected role of leadership."
+  }
+]

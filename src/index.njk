@@ -1,0 +1,60 @@
+---
+layout: base.njk
+title: "Trump Boogies — A Comprehensive Archive"
+eleventyExcludeFromCollections: true
+---
+
+<section class="intro" id="about">
+  <p class="lead">
+    <strong>Trump Boogies</strong> is a searchable, publicly available archive cataloging false statements made during the U.S. presidency of Donald J. Trump. Each entry records the statement itself, the date on which it was made, the journalistic sources that reported on it, and a brief analysis of the rhetorical or logical fallacy at play.
+  </p>
+  <p>
+    This archive is presented as a public service for journalists, researchers, students, and any citizen who wishes to consult an organized record of these statements. It currently contains <strong>{{ lies | length }}</strong> documented entries.
+  </p>
+</section>
+
+<section class="filters" id="archive" aria-label="Filter the archive">
+  <h2 class="section-title">The Archive</h2>
+  <div class="filter-controls">
+    <div class="filter-group">
+      <label for="year-filter">Year</label>
+      <select id="year-filter" class="filter-input">
+        <option value="all">All Years</option>
+        {% for y in years %}
+          <option value="{{ y }}">{{ y }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group filter-group-grow">
+      <label for="text-filter">Search</label>
+      <input type="search" id="text-filter" class="filter-input" placeholder="Search the lie, the sources, or the fallacy analysis&hellip;" />
+    </div>
+    <div class="filter-group">
+      <button type="button" id="reset-filters" class="filter-button">Reset</button>
+    </div>
+  </div>
+  <p class="filter-count" id="filter-count" aria-live="polite">Showing <span id="visible-count">{{ lies | length }}</span> of <span id="total-count">{{ lies | length }}</span> entries.</p>
+</section>
+
+<section class="archive" id="results">
+  <ul class="lie-list" id="lie-list">
+    {% for lie in lies %}
+      <li class="lie-item" data-year="{{ lie.year }}" data-search="{{ lie.lie | lower }} {{ lie.sources | join(' ') | lower }} {{ lie.fallacy | lower }}">
+        <article>
+          <header class="lie-header">
+            <time class="lie-date" datetime="{{ lie.date }}">{{ lie.date | readableDate }}</time>
+            <span class="lie-year">{{ lie.year }}</span>
+          </header>
+          <blockquote class="lie-quote">
+            <p>&ldquo;{{ lie.lie }}&rdquo;</p>
+          </blockquote>
+          <div class="lie-meta">
+            <p class="lie-field"><span class="field-label">Reported By:</span> {{ lie.sources | join(", ") }}</p>
+            <p class="lie-field"><span class="field-label">Logical Fallacy:</span> {{ lie.fallacy }}</p>
+          </div>
+        </article>
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="no-results" id="no-results" hidden>No entries match the current filter. Try resetting your search.</p>
+</section>
