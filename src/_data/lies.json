@@ -310,5 +310,69 @@
     "year": 2019,
     "sources": ["Associated Press", "CNN", "Reuters", "The New York Times"],
     "fallacy": "Falsehood / Exaggeration — There is no data to support the claim that Americans flush toilets 10 to 15 times per use, or that low-flow fixtures force repeated flushing. Federal efficiency standards have cut average water use per flush by roughly half without any documented 10-fold flushing problem."
+  },
+  {
+    "id": 40,
+    "lie": "It's going to disappear. One day — it's like a miracle — it will disappear.",
+    "date": "2020-02-27",
+    "year": 2020,
+    "sources": ["CNN", "FactCheck.org", "The Washington Post", "The Guardian"],
+    "fallacy": "Falsehood / Baseless Prediction — COVID-19 did not disappear. The WHO had already warned the virus had 'pandemic potential,' and by year-end the U.S. had recorded more than 300,000 deaths. Epidemiologists said there was no basis to expect a respiratory virus that had gained such a foothold to simply vanish on its own."
+  },
+  {
+    "id": 41,
+    "lie": "Yeah, no, I don't take responsibility at all, because we were given a set of circumstances and we were given rules, regulations, and specifications from a different time.",
+    "date": "2020-03-13",
+    "year": 2020,
+    "sources": ["CNBC", "Politico", "The Washington Post", "PolitiFact"],
+    "fallacy": "Deflection / Scapegoating — The slow coronavirus testing rollout was the responsibility of the Trump administration, which controlled the CDC's test design, approval and distribution throughout his term. A member of his own task force called the testing 'a failing,' and the claim that pre-existing rules were the cause gave no factual basis for dodging accountability."
+  },
+  {
+    "id": 42,
+    "lie": "And then I see the disinfectant, where it knocks it out in a minute. One minute. And is there a way we can do something like that, by injection inside or almost a cleaning.",
+    "date": "2020-04-23",
+    "year": 2020,
+    "sources": ["CNN", "FactCheck.org", "PolitiFact"],
+    "fallacy": "Falsehood / Dangerous Conjecture — Injecting or ingesting disinfectants cannot treat COVID-19 and is extremely hazardous; doctors, poison-control experts and disinfectant manufacturers all issued urgent warnings against ingesting or injecting cleaning products. Trump later claimed the remarks were 'sarcastic,' but the White House transcript and video show no such framing at the time."
+  },
+  {
+    "id": 43,
+    "lie": "I'm taking it — hydroxychloroquine. Right now. Yeah. A couple of weeks ago, I started taking it. ... I'm not going to get hurt by it.",
+    "date": "2020-05-18",
+    "year": 2020,
+    "sources": ["NBC News", "CNN", "BBC", "FactCheck.org"],
+    "fallacy": "Falsehood / False Cause — Hydroxychloroquine is an unproven treatment for COVID-19 and was not shown to prevent infection. The FDA cautioned against using it outside hospitals or clinical trials and revoked its emergency use authorization in June after a large randomized trial found no benefit and possible heart risks."
+  },
+  {
+    "id": 44,
+    "lie": "Mail-In Ballots will lead to massive electoral fraud and a rigged 2020 Election.",
+    "date": "2020-07-02",
+    "year": 2020,
+    "sources": ["The Washington Post", "FactCheck.org", "Associated Press"],
+    "fallacy": "Falsehood / Misrepresentation — Widespread mail-in voting is long-established — used for years by the military and as the default in states like Oregon, Washington and Colorado — and studies consistently find voter fraud of any kind to be extraordinarily rare. Describing it as inherently fraudulent was baseless and, notably, ignored that Trump himself had voted by mail in Florida."
+  },
+  {
+    "id": 45,
+    "lie": "Proud Boys, stand back and stand by. But I'll tell you what: somebody's got to do something about antifa and the Left.",
+    "date": "2020-09-29",
+    "year": 2020,
+    "sources": ["Associated Press", "Reuters", "NPR"],
+    "fallacy": "Misrepresentation / Evasion — Pressed repeatedly to condemn white supremacist and militia groups, Trump instead addressed the Proud Boys — a far-right group designated a hate group — with 'stand back and stand by,' and falsely cast violence as coming 'from the left wing.' The Proud Boys celebrated the remark as tacit encouragement."
+  },
+  {
+    "id": 46,
+    "lie": "That means I can't get it (immune), and can't give it. Very nice to know!!!",
+    "date": "2020-10-11",
+    "year": 2020,
+    "sources": ["FactCheck.org", "The New York Times", "NBC News"],
+    "fallacy": "Falsehood / Overreach — No medical basis supported certainty of immunity. Reinfection cases had already been documented and immunity duration was unknown. Trump's own care — an experimental antibody cocktail plus the steroid dexamethasone — offered no guarantee of immunity and, per experts, might even have suppressed his natural antibody response."
+  },
+  {
+    "id": 47,
+    "lie": "Frankly, we did win this election... So we'll be going to the U.S. Supreme Court. We want all voting to stop.",
+    "date": "2020-11-04",
+    "year": 2020,
+    "sources": ["PolitiFact", "FactCheck.org", "BBC"],
+    "fallacy": "Falsehood / Premature Declaration — Joe Biden won the 2020 presidential election by 306 electoral votes to 232. On election night millions of legal ballots remained uncounted, and counting valid votes is not fraud; no evidence of widespread fraud was ever produced, and Trump's own administration officials found none."
   }
 ]
