@@ -486,5 +486,85 @@
     "year": 2025,
     "sources": ["PolitiFact", "NBC News"],
     "fallacy": "Falsehood / Exaggeration — Trump's executive order claimed gender-affirming care is 'sterilizing a growing number of impressionable children.' Gender-affirming surgery on minors is very rare — particularly irreversible genital surgeries — and, under major medical associations, only the most severe cases receive care. The order, which framed these procedures as 'junk science,' was later partly blocked by federal judges."
+  },
+  {
+    "id": 62,
+    "lie": "I was proudly responsible for the ending of something that all legal scholars, both sides, wanted, and in fact demanded: Roe v. Wade. They wanted it ended.",
+    "date": "2024-04-08",
+    "year": 2024,
+    "sources": ["PolitiFact", "CNN"],
+    "fallacy": "Falsehood / Overgeneralization — Trump claimed 'all legal scholars, both sides' wanted Roe overturned. Before the 2022 Dobbs ruling, numerous law professors filed amicus briefs urging the Court to uphold Roe, and many legal scholars fiercely criticized the decision. PolitiFact rated the claim False. Trump also overstated that Roe's end left abortion 'where everybody wanted it from a legal standpoint' — polls show most Americans opposed its reversal."
+  },
+  {
+    "id": 63,
+    "lie": "The Democrats are the radical ones on this position because they support abortion up to and even beyond the ninth month, the concept of having an abortion in the later months and even execution after birth. … The baby is born, the baby is executed after birth.",
+    "date": "2024-04-08",
+    "year": 2024,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Straw Man — No state allows killing a newborn. Infanticide is illegal in all 50 states, and 'execution after birth' is not a recognized position or practice. Late-term abortions occur only in rare, dire medical circumstances. PolitiFact rated the 'execution after birth' claim False, noting it fabricated a Democratic position that does not exist."
+  },
+  {
+    "id": 64,
+    "lie": "I didn't know she was Black until a number of years ago, when she happened to turn Black, and now she wants to be known as Black. So, I don't know, is she Indian or is she Black?",
+    "date": "2024-07-31",
+    "year": 2024,
+    "sources": ["PolitiFact", "CNN", "FactCheck.org", "Associated Press"],
+    "fallacy": "Falsehood / Misrepresentation — At the National Association of Black Journalists convention, Trump falsely suggested Kamala Harris only recently 'became' Black. Harris has always identified as both Black and Indian American; she attended a historically Black university and served in the Congressional Black Caucus. Her father is Jamaican, her mother Indian. PolitiFact, CNN, FactCheck.org and AP all debunked the claim."
+  },
+  {
+    "id": 65,
+    "lie": "I had no inflation, virtually no inflation. They had the highest inflation perhaps in the history of our country. … We had the greatest economy in the history of our country.",
+    "date": "2024-09-10",
+    "year": 2024,
+    "sources": ["FactCheck.org", "Associated Press", "Snopes"],
+    "fallacy": "Falsehood / Exaggeration — Inflation was not zero under Trump (CPI rose 7.6% over his term, ~1.9% a year), and Biden-era inflation peaked at 9.1% in 2022 — far below the double-digit rates of the 1970s and early 1980s. GDP also grew faster under Clinton and Reagan; the economy shrank 2.2% in Trump's final year. Snopes and FactCheck rated the claims False."
+  },
+  {
+    "id": 66,
+    "lie": "I'll get the war with Ukraine and Russia ended. If I'm president-elect, I'll get it done before even becoming president.",
+    "date": "2024-09-10",
+    "year": 2024,
+    "sources": ["CNN", "PolitiFact"],
+    "fallacy": "Overreach / False Promise — Trump repeatedly (CNN counted dozens of times) promised to end the Russia-Ukraine war within 24 hours or before taking office. The war continued well past his January 2025 inauguration and first day in office. No mechanism was offered for delivering peace on that timeline, and his own officials later abandoned the 24-hour framing."
+  },
+  {
+    "id": 67,
+    "lie": "And, above all, China is operating the Panama Canal.",
+    "date": "2025-01-20",
+    "year": 2025,
+    "sources": ["PolitiFact", "Associated Press", "USA Today"],
+    "fallacy": "Falsehood / Misrepresentation — In his inaugural address, Trump claimed China operates the Panama Canal. Panama has owned and administered the canal since Dec. 31, 1999, via the autonomous Panama Canal Authority. Chinese influence is limited to a Hong Kong-based firm operating two ports at the canal's ends, while authority over the waterway remains with the Panamanian government."
+  },
+  {
+    "id": 68,
+    "lie": "We will tariff and tax foreign countries to enrich our citizens.",
+    "date": "2025-01-20",
+    "year": 2025,
+    "sources": ["PolitiFact", "FactCheck.org"],
+    "fallacy": "Falsehood / Misrepresentation — Trump's inaugural claim that tariffs fall on foreign countries is backwards. U.S. importers pay customs duties, and the cost is largely passed to American consumers as higher prices. Economists and the Tax Foundation found first-term tariffs were 'passed almost entirely through to US firms or final consumers,' making them a regressive tax on U.S. households."
+  },
+  {
+    "id": 69,
+    "lie": "I changed the Obama policy, and we had a very good policy. … And then Biden came in and he changed it.",
+    "date": "2025-01-30",
+    "year": 2025,
+    "sources": ["PolitiFact", "Associated Press", "Reuters"],
+    "fallacy": "Falsehood / False Cause — Hours after the deadly Washington air crash, Trump blamed FAA diversity hiring, claiming he ended an Obama policy that Biden 'reinstated.' Trump actually expanded disability hiring in 2019, and Biden did not reinstate the hiring assessment Trump ended in 2018. Investigators found no evidence DEI policies caused the crash, which remained under investigation."
+  },
+  {
+    "id": 70,
+    "lie": "You should have never started it. … You could have made a deal.",
+    "date": "2025-02-18",
+    "year": 2025,
+    "sources": ["PolitiFact", "BBC"],
+    "fallacy": "Falsehood / Historical Revisionism — Trump echoed Kremlin talking points claiming Ukraine started the war with Russia. Russia launched an unprovoked full-scale invasion on Feb. 24, 2022, after Ukraine voted overwhelmingly for Zelenskyy in 2019. PolitiFact rated the claim Pants on Fire, and Ukraine's leader accused Trump of 'living in a disinformation space.'"
+  },
+  {
+    "id": 71,
+    "lie": "[Zelenskyy is] A Dictator without Elections.",
+    "date": "2025-02-19",
+    "year": 2025,
+    "sources": ["PolitiFact", "BBC", "Al Jazeera"],
+    "fallacy": "Falsehood / Misrepresentation — Trump called Ukraine's president a 'dictator without elections.' Zelenskyy was democratically elected in 2019 with over 73% of the vote; elections were suspended solely because martial law — imposed after Russia's invasion — legally forbids them, as in many wartime democracies. A Georgetown professor compared his case to Britain postponing elections during WWII."
   }
 ]
