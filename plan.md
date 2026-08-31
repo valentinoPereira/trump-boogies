@@ -1,6 +1,6 @@
 # Plan — Trump Boogies Archive Expansion
 
-Status of the archive database (`src/_data/lies.json`): total **47 entries**.
+Status of the archive database (`src/_data/lies.json`): total **61 entries**.
 
 | Year | Entries | Status |
 |------|---------|--------|
@@ -9,18 +9,18 @@ Status of the archive database (`src/_data/lies.json`): total **47 entries**.
 | 2017 | 6       | done (light) |
 | 2018 | 2       | done (light) |
 | 2019 | 8       | done (ids 32–39) |
-| 2020 | 13      | done (ids 40–47 added this pass) |
-| 2021 | 0       | missing |
-| 2024 | 0       | missing |
-| 2025 | 0       | missing |
+| 2020 | 13      | done (ids 40–47) |
+| 2021 | 5       | done (ids 48–52 added this pass) |
+| 2024 | 4       | done (ids 53–56 added this pass) |
+| 2025 | 5       | done (ids 57–61 added this pass) |
 
 > Counts confirmed directly from `src/_data/lies.json`. 2021, 2024 and 2025 remain empty.
 
 ## Immediate next steps (in order)
 
-1. **Fill 2021** (post-presidency) — next chronological gap. Target a verified batch (8–10).
-2. **Fill 2024 and 2025** (second term / current events), noting these overlap with ongoing news.
-3. Continue the `id` sequence from **48**.
+1. ~~Fill 2021 (post-presidency)~~ — done, ids 48–52.
+2. ~~Fill 2024 and 2025~~ — done, ids 53–56 and 57–61. (Note: 2025 overlaps ongoing news; re-run when warranted.)
+3. `id` sequence now runs 48 → **62** for the next batch.
 
 ## Data-quality rules for every new entry
 
@@ -45,7 +45,7 @@ Each entry follows the existing shape in `src/_data/lies.json`:
 }
 ```
 
-- Continue the `id` sequence (next id is **48**).
+- Continue the `id` sequence (next id is **62**).
 - Entries render newest-first automatically via the `sortByDateDesc` filter, so file order does not matter.
 - Raise the `lies | length` display count naturally — no hardcoded numbers to update.
 

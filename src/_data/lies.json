@@ -374,5 +374,117 @@
     "year": 2020,
     "sources": ["PolitiFact", "FactCheck.org", "BBC"],
     "fallacy": "Falsehood / Premature Declaration — Joe Biden won the 2020 presidential election by 306 electoral votes to 232. On election night millions of legal ballots remained uncounted, and counting valid votes is not fraud; no evidence of widespread fraud was ever produced, and Trump's own administration officials found none."
+  },
+  {
+    "id": 48,
+    "lie": "We won Georgia easily. We won it by hundreds of thousands of votes. But if you go by basic, simple numbers, we won it easily, easily.",
+    "date": "2021-01-04",
+    "year": 2021,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Misrepresentation — On a recorded call, Trump tried to persuade Georgia's secretary of state to 'find' him votes, insisting he won the state by 'hundreds of thousands.' The certified results, counted three times (including a hand recount), showed Biden won Georgia by 11,779 votes. Raffensperger told Trump directly: 'The data you have is wrong.'"
+  },
+  {
+    "id": 49,
+    "lie": "We won. We won in a landslide. This was a landslide.",
+    "date": "2021-01-06",
+    "year": 2021,
+    "sources": ["PolitiFact", "The Washington Post"],
+    "fallacy": "Falsehood / Premature Declaration — Speaking on the Ellipse before his supporters marched on the Capitol, Trump again claimed victory. He had lost: Biden won 306 electoral votes to 232 and the national popular vote by about 7 million. All 50 states certified results, election officials found no significant fraud, and none of 62 lawsuits Trump filed proved any fraud affecting the outcome."
+  },
+  {
+    "id": 50,
+    "lie": "Hydroxychloroquine works.",
+    "date": "2021-06-14",
+    "year": 2021,
+    "sources": ["PolitiFact", "Reuters"],
+    "fallacy": "Falsehood / False Cause — Trump topped his 'I was right about everything' list with a fringe study. Hydroxychloroquine has never been shown to treat or prevent COVID-19: the FDA revoked its emergency authorization in June 2020, and large randomized trials (RECOVERY, WHO SOLIDARITY) found no benefit — the RECOVERY trial found it increased mortality risk. The study Trump cited was an unvetted preprint."
+  },
+  {
+    "id": 51,
+    "lie": "This means we (you!) won the Presidential Election in Georgia. The 2020 presidential election was rigged!",
+    "date": "2021-06-23",
+    "year": 2021,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Misrepresentation — Trump claimed Georgia's routine plan to remove about 101,789 outdated voter files (mostly people who moved) proved he won. Federal law requires states to purge rolls in non-federal years; Georgia removed 290,000 voters in 2019 and about 100,000 in 2021. The roughly 5 million Georgia ballots were counted three times, affirming Biden's 11,779-vote win."
+  },
+  {
+    "id": 52,
+    "lie": "So many incredible facts have now come out to show conclusively that [the election] wasn't [legitimate].",
+    "date": "2021-06-29",
+    "year": 2021,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Begging the Question — Trump asserted the election was illegitimate without evidence. A Republican-led Michigan Senate committee found 'no evidence of widespread or systemic fraud'; courts repeatedly rejected Trump's claims; and officials, including his own attorney general Bill Barr, confirmed there was no fraud on a scale to alter the outcome. No evidence emerged in any state to reverse the result."
+  },
+  {
+    "id": 53,
+    "lie": "In Springfield (Ohio), they're eating the dogs, the people that came in, they're eating the cats. They're eating, they're eating the pets of the people that live there.",
+    "date": "2024-09-10",
+    "year": 2024,
+    "sources": ["PolitiFact", "The Washington Post", "NPR"],
+    "fallacy": "Falsehood / Misrepresentation — Speaking at the presidential debate, Trump repeated a baseless claim about Haitian immigrants in Springfield, Ohio. Springfield police and city officials said there were no credible reports of pets being harmed. The rumor traced to an unverified social-media post. PolitiFact named it its 2024 Lie of the Year."
+  },
+  {
+    "id": 54,
+    "lie": "We have 13,099, exactly. … These are people that were in prison, and they're murderers. Some are up for the death penalty but some killed far more than one person. … Every one of them has been released into the United States of America.",
+    "date": "2024-10-22",
+    "year": 2024,
+    "sources": ["FactCheck.org"],
+    "fallacy": "Falsehood / Misrepresentation — Trump implied 13,099 undocumented convicted murderers were set loose by the Biden-Harris administration. The figure is the number of noncitizens convicted of murder who were not ICE-detained — most entered the U.S. before Biden took office, and many were in prisons and jails, not 'on the loose.' It does not reflect anyone released by the current administration."
+  },
+  {
+    "id": 55,
+    "lie": "A lot of talk about massive CHEATING in Philadelphia. Law Enforcement coming!!!",
+    "date": "2024-11-05",
+    "year": 2024,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Conspiracy Theory — Hours before polls closed on Election Day, Trump alleged 'massive cheating' in Philadelphia. No evidence supported the claim; local and state election officials confirmed normal vote-counting procedures. Police reported no intrusion; federal and state authorities found none. The false post echoed his debunked 2020 claims."
+  },
+  {
+    "id": 56,
+    "lie": "I know nothing about Project 2025. I have no idea who is behind it. I disagree with some of the things they're saying and some of the things they're saying are absolutely ridiculous and abysmal. Anything they do, I wish them luck, but I have nothing to do with them.",
+    "date": "2024-07-05",
+    "year": 2024,
+    "sources": ["PolitiFact", "CNN"],
+    "fallacy": "Misrepresentation / Evasion — Trump claimed total ignorance of Project 2025, a right-wing transition blueprint. CNN identified at least 140 former Trump-administration officials involved in the project, many of his platform items overlapped with its proposals, and his campaign printed an agenda aligned with its goals. The blanket denial misrepresented the depth of his ties."
+  },
+  {
+    "id": 57,
+    "lie": "We had a landslide election. … We won every swing state. We won the popular vote by millions and millions of people. Nobody even knows how many people, millions, and they're still counting in some areas.",
+    "date": "2025-01-07",
+    "year": 2025,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Misrepresentation — A day after Congress certified his 2024 victory, Trump claimed votes were 'still counting.' All states had certified results in November or December, the Electoral College voted, and Congress accepted them Jan. 6. His popular-vote margin was about 2.3 million — not unknowable 'millions and millions.' Remaining state-race litigation is not ballot counting."
+  },
+  {
+    "id": 58,
+    "lie": "And we also want them to release the water. If they released the water, they wouldn't have had a problem. If they released the water when I told them to … you might not have even had a fire.",
+    "date": "2025-01-24",
+    "year": 2025,
+    "sources": ["FactCheck.org", "Associated Press", "Los Angeles Times"],
+    "fallacy": "Falsehood / False Cause — Trump claimed California's Southern wildfires could have been prevented if more water were released from the north, and threatened to condition federal aid on the state enacting voter ID and water changes. Experts attributed the blazes to extreme drought and Santa Ana winds; there is no water 'spigot' that can fight wildfires, and California already requires ID to register to vote."
+  },
+  {
+    "id": 59,
+    "lie": "Over the past four years, 21 million people poured into the United States. Many of them were murderers, human traffickers, gang members, and other criminals from the streets of the world's most dangerous cities due to Joe Biden's insane and very dangerous open border policies.",
+    "date": "2025-03-04",
+    "year": 2025,
+    "sources": ["Associated Press", "PolitiFact"],
+    "fallacy": "Falsehood / Misrepresentation — Trump's '21 million' conflated border encounters with unique people entering — the same person can be stopped multiple times. CBP recorded roughly 14 million encounters over the four years, not 21 million arrivals. And the broad claim that many migrants are murderers, traffickers or gang members is unsupported: studies consistently show immigrants commit crime at lower rates than native-born Americans."
+  },
+  {
+    "id": 60,
+    "lie": "Elon [Musk] is helping the Doge team to find billions and billions of dollars in waste, fraud and abuse. … including $8 million for making mice transgender.",
+    "date": "2025-03-04",
+    "year": 2025,
+    "sources": ["NBC News", "Snopes", "PBS NewsHour"],
+    "fallacy": "Falsehood / Misrepresentation — In his address to Congress, Trump said the government spent $8 million 'making mice transgender.' The NIH-funded studies merely examined how gender-affirming hormones affect conditions such as asthma, immunity and breast-cancer risk — standard medical research, not research to 'make mice transgender.' The figure itself was drawn from a watchdog report that overstated the grants."
+  },
+  {
+    "id": 61,
+    "lie": "[Medical professionals] are sterilizing a growing number of impressionable children.",
+    "date": "2025-01-28",
+    "year": 2025,
+    "sources": ["PolitiFact", "NBC News"],
+    "fallacy": "Falsehood / Exaggeration — Trump's executive order claimed gender-affirming care is 'sterilizing a growing number of impressionable children.' Gender-affirming surgery on minors is very rare — particularly irreversible genital surgeries — and, under major medical associations, only the most severe cases receive care. The order, which framed these procedures as 'junk science,' was later partly blocked by federal judges."
   }
 ]
