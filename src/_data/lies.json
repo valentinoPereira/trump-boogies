@@ -246,5 +246,69 @@
     "year": 2015,
     "sources": ["PolitiFact", "FBI Uniform Crime Reporting"],
     "fallacy": "Pants on Fire / False Statistics — FBI data show the opposite of what the graphic claimed: in 2014, about 82% of white homicide victims were killed by whites and about 15% by blacks. The graphic also misrepresented every other racial category, and cited a nonexistent 'Crime Statistics Bureau.'"
+  },
+  {
+    "id": 32,
+    "lie": "The border city of El Paso, Texas, used to have extremely high rates of violent crime — one of the highest in the country, and considered one of our nation's most dangerous cities. Now, immediately upon its building, with a powerful barrier in place, El Paso is one of the safest cities in our country. Simply put, walls work and walls save lives.",
+    "date": "2019-02-05",
+    "year": 2019,
+    "sources": ["PolitiFact", "FactCheck.org", "NBC News"],
+    "fallacy": "Falsehood / False Cause — El Paso was never among the nation's most dangerous cities: its violent crime rate ran well below the national average for cities of its size, and crime had been falling since 1993 — years before the border fence was built in 2008–09. Violent crime actually ticked up in the years immediately after the fence went up."
+  },
+  {
+    "id": 33,
+    "lie": "No Collusion, No Obstruction, Complete and Total EXONERATION. KEEP AMERICA GREAT!",
+    "date": "2019-03-24",
+    "year": 2019,
+    "sources": ["PolitiFact", "Associated Press", "The Washington Post", "NBC News"],
+    "fallacy": "Misrepresentation / Falsehood — Special Counsel Robert Mueller's report did not exonerate Trump on obstruction; it stated that while it did not conclude the president committed a crime, 'it also does not exonerate him.' Mueller took no position on obstruction, leaving the question to the attorney general."
+  },
+  {
+    "id": 34,
+    "lie": "If you have a windmill anywhere near your house, congratulations, your house just went down 75 percent in value. And they say the noise causes cancer. You tell me that one, okay?",
+    "date": "2019-04-02",
+    "year": 2019,
+    "sources": ["FactCheck.org", "The Washington Post", "PolitiFact", "The New York Times"],
+    "fallacy": "Baseless Claim / Falsehood — There is no evidence that wind turbine noise causes cancer; the American Cancer Society says it is 'unaware of any credible evidence' linking the two, and a literature review found none. The 75% property-value drop is also unsupported by data."
+  },
+  {
+    "id": 35,
+    "lie": "President Obama separated the children. … I'm the one that stopped it.",
+    "date": "2019-04-09",
+    "year": 2019,
+    "sources": ["FactCheck.org", "The Washington Post", "CNN"],
+    "fallacy": "Misattribution / Falsehood — The family separations at the border resulted from the Trump administration's own 'zero-tolerance' policy, which directed federal prosecutors to charge all adults caught crossing illegally and placed their children in separate detention. The Obama administration had no such blanket policy."
+  },
+  {
+    "id": 36,
+    "lie": "We're charging China tariffs. We've never taken in 10 cents from China, and now we're taking in billions and billions of dollars.",
+    "date": "2019-05-03",
+    "year": 2019,
+    "sources": ["FactCheck.org", "The Washington Post", "PolitiFact"],
+    "fallacy": "Misrepresentation / Falsehood — Tariffs are not paid by China; they are paid by American importers and, ultimately, U.S. businesses and consumers. The U.S. goods trade deficit with China hit a record roughly $419 billion in 2018, not the '10 cents' Trump claimed."
+  },
+  {
+    "id": 37,
+    "lie": "Then, I have an Article II, where I have the right to do whatever I want as president. But, I don't even talk about that because they did a report and there was no obstruction.",
+    "date": "2019-07-23",
+    "year": 2019,
+    "sources": ["ABC News", "The Washington Post", "MSNBC"],
+    "fallacy": "Misrepresentation — Article II of the Constitution does not give the president authority to do 'whatever I want.' It vests executive power subject to checks from Congress and the courts, and no legal basis supports the claim of unlimited presidential discretion."
+  },
+  {
+    "id": 38,
+    "lie": "In addition to Florida — South Carolina, North Carolina, Georgia, and Alabama, will most likely be hit (much) harder than anticipated.",
+    "date": "2019-09-01",
+    "year": 2019,
+    "sources": ["The Washington Post", "FactCheck.org", "CNN", "PolitiFact", "The New York Times"],
+    "fallacy": "Falsehood / Fabrication — The National Weather Service in Birmingham corrected Trump within 20 minutes, stating Alabama would see no impacts from Hurricane Dorian. No official forecast put Alabama in the storm's path; Trump later displayed a NOAA map that had been altered with a black marker to extend the track into Alabama, in what became known as 'Sharpiegate.'"
+  },
+  {
+    "id": 39,
+    "lie": "People are flushing toilets 10 times, 15 times as opposed to once. They end up using more water. The EPA is looking at that very strongly at my suggestion.",
+    "date": "2019-12-06",
+    "year": 2019,
+    "sources": ["Associated Press", "CNN", "Reuters", "The New York Times"],
+    "fallacy": "Falsehood / Exaggeration — There is no data to support the claim that Americans flush toilets 10 to 15 times per use, or that low-flow fixtures force repeated flushing. Federal efficiency standards have cut average water use per flush by roughly half without any documented 10-fold flushing problem."
   }
 ]
