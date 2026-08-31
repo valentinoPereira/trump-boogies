@@ -566,5 +566,61 @@
     "year": 2025,
     "sources": ["PolitiFact", "BBC", "Al Jazeera"],
     "fallacy": "Falsehood / Misrepresentation — Trump called Ukraine's president a 'dictator without elections.' Zelenskyy was democratically elected in 2019 with over 73% of the vote; elections were suspended solely because martial law — imposed after Russia's invasion — legally forbids them, as in many wartime democracies. A Georgetown professor compared his case to Britain postponing elections during WWII."
+  },
+  {
+    "id": 72,
+    "lie": "There doesn't have to be a process … If you're the president of the United States, you can declassify just by saying it's declassified. Even by thinking about it … I declassified everything.",
+    "date": "2022-09-21",
+    "year": 2022,
+    "sources": ["PolitiFact", "FactCheck.org", "The New York Times"],
+    "fallacy": "Falsehood / Just-So Story — After the FBI recovered classified documents from Mar-a-Lago, Trump claimed he could declassify records by merely 'thinking about it.' An 11th Circuit Court found 'no evidence' any of the documents were declassified, and legal precedent rejects 'in-brain' declassification. A former president also cannot declassify after leaving office; the Presidential Records Act required returning all documents regardless of classification."
+  },
+  {
+    "id": 73,
+    "lie": "The glass, it seems, was broken from the inside to the out, so it wasn't a break-in, it was a breakout.",
+    "date": "2022-11-01",
+    "year": 2022,
+    "sources": ["PolitiFact", "CNN", "The New York Times"],
+    "fallacy": "Conspiracy Theory / Misrepresentation — Trump suggested the hammer assault on Paul Pelosi was not an actual break-in. San Francisco police confirmed DePape 'forced entry into a rear door,' and both DePape and Paul Pelosi told investigators DePape broke in with a hammer looking for Nancy Pelosi. A police chief called Trump's claim 'absolutely not' supported by evidence. PolitiFact rated it Pants on Fire."
+  },
+  {
+    "id": 74,
+    "lie": "A Massive Fraud of this type and magnitude allows for the termination of all rules, regulations, and articles, even those found in the Constitution.",
+    "date": "2022-12-03",
+    "year": 2022,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Appeal to Fear — Trump claimed alleged 2020 election fraud justified 'terminating' constitutional rules. There was no massive or widespread fraud — courts repeatedly rejected his claims, and his own advisers, federal and state officials found none. There is also no mechanism in the Constitution for terminating its rules because of unwanted election results. PolitiFact rated it Pants on Fire."
+  },
+  {
+    "id": 75,
+    "lie": "Other countries are emptying out their prisons, insane asylums and mental institutions and sending their most heinous criminals to the United States. … They're sending criminals to live in the United States.",
+    "date": "2023-03-25",
+    "year": 2023,
+    "sources": ["FactCheck.org", "PolitiFact"],
+    "fallacy": "Falsehood / Misrepresentation — Trump claimed foreign governments were deliberately emptying prisons and mental institutions to send criminals to the U.S. No evidence supported the claim; it traced to a single, unverified conservative news story about Venezuela that fact-checkers could not substantiate. No mainstream migration data shows countries emptying institutions into the U.S."
+  },
+  {
+    "id": 76,
+    "lie": "I never met her. I have no idea who she is.",
+    "date": "2023-05-10",
+    "year": 2023,
+    "sources": ["PolitiFact", "The New York Times"],
+    "fallacy": "Falsehood / Denial — At a CNN town hall, a day after a jury found him liable for sexually abusing E. Jean Carroll, Trump claimed he never met her. The jury found the abuse occurred, and in a deposition Trump acknowledged meeting her, later confusing her with another woman in a photo. His claim to have 'no idea' who she is was contradicted by the verdict and his own testimony."
+  },
+  {
+    "id": 77,
+    "lie": "Bacon is up five times.",
+    "date": "2023-09-17",
+    "year": 2023,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Exaggeration — On NBC's 'Meet the Press,' Trump claimed bacon prices were 'up five times' under Biden. Federal data showed bacon rose at most 30% at its 2022 peak and 11.5% across Biden's presidency — nowhere near a 400% increase. An economist emphasized pork-price swings have nothing to do with whoever is president."
+  },
+  {
+    "id": 78,
+    "lie": "They're poisoning the blood of our country.",
+    "date": "2023-12-16",
+    "year": 2023,
+    "sources": ["Reuters", "NBC News"],
+    "fallacy": "Falsehood / Dehumanizing Stereotype — Trump claimed undocumented immigrants were 'poisoning the blood of our country,' adding they come 'from prisons' and 'mental institutions' and that '15, 16 million' entered. The numbers conflated encounters with unique people, and there is no evidence immigrants disproportionately come from prisons or mental institutions. The 'poisoning the blood' phrasing drew wide condemnation for echoing Nazi rhetoric; Trump later denied knowing Hitler used it."
   }
 ]
