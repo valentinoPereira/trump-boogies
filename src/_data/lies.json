@@ -374,5 +374,197 @@
     "year": 2020,
     "sources": ["PolitiFact", "FactCheck.org", "BBC"],
     "fallacy": "Falsehood / Premature Declaration — Joe Biden won the 2020 presidential election by 306 electoral votes to 232. On election night millions of legal ballots remained uncounted, and counting valid votes is not fraud; no evidence of widespread fraud was ever produced, and Trump's own administration officials found none."
+  },
+  {
+    "id": 48,
+    "lie": "We won Georgia easily. We won it by hundreds of thousands of votes. But if you go by basic, simple numbers, we won it easily, easily.",
+    "date": "2021-01-04",
+    "year": 2021,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Misrepresentation — On a recorded call, Trump tried to persuade Georgia's secretary of state to 'find' him votes, insisting he won the state by 'hundreds of thousands.' The certified results, counted three times (including a hand recount), showed Biden won Georgia by 11,779 votes. Raffensperger told Trump directly: 'The data you have is wrong.'"
+  },
+  {
+    "id": 49,
+    "lie": "We won. We won in a landslide. This was a landslide.",
+    "date": "2021-01-06",
+    "year": 2021,
+    "sources": ["PolitiFact", "The Washington Post"],
+    "fallacy": "Falsehood / Premature Declaration — Speaking on the Ellipse before his supporters marched on the Capitol, Trump again claimed victory. He had lost: Biden won 306 electoral votes to 232 and the national popular vote by about 7 million. All 50 states certified results, election officials found no significant fraud, and none of 62 lawsuits Trump filed proved any fraud affecting the outcome."
+  },
+  {
+    "id": 50,
+    "lie": "Hydroxychloroquine works.",
+    "date": "2021-06-14",
+    "year": 2021,
+    "sources": ["PolitiFact", "Reuters"],
+    "fallacy": "Falsehood / False Cause — Trump topped his 'I was right about everything' list with a fringe study. Hydroxychloroquine has never been shown to treat or prevent COVID-19: the FDA revoked its emergency authorization in June 2020, and large randomized trials (RECOVERY, WHO SOLIDARITY) found no benefit — the RECOVERY trial found it increased mortality risk. The study Trump cited was an unvetted preprint."
+  },
+  {
+    "id": 51,
+    "lie": "This means we (you!) won the Presidential Election in Georgia. The 2020 presidential election was rigged!",
+    "date": "2021-06-23",
+    "year": 2021,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Misrepresentation — Trump claimed Georgia's routine plan to remove about 101,789 outdated voter files (mostly people who moved) proved he won. Federal law requires states to purge rolls in non-federal years; Georgia removed 290,000 voters in 2019 and about 100,000 in 2021. The roughly 5 million Georgia ballots were counted three times, affirming Biden's 11,779-vote win."
+  },
+  {
+    "id": 52,
+    "lie": "So many incredible facts have now come out to show conclusively that [the election] wasn't [legitimate].",
+    "date": "2021-06-29",
+    "year": 2021,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Begging the Question — Trump asserted the election was illegitimate without evidence. A Republican-led Michigan Senate committee found 'no evidence of widespread or systemic fraud'; courts repeatedly rejected Trump's claims; and officials, including his own attorney general Bill Barr, confirmed there was no fraud on a scale to alter the outcome. No evidence emerged in any state to reverse the result."
+  },
+  {
+    "id": 53,
+    "lie": "In Springfield (Ohio), they're eating the dogs, the people that came in, they're eating the cats. They're eating, they're eating the pets of the people that live there.",
+    "date": "2024-09-10",
+    "year": 2024,
+    "sources": ["PolitiFact", "The Washington Post", "NPR"],
+    "fallacy": "Falsehood / Misrepresentation — Speaking at the presidential debate, Trump repeated a baseless claim about Haitian immigrants in Springfield, Ohio. Springfield police and city officials said there were no credible reports of pets being harmed. The rumor traced to an unverified social-media post. PolitiFact named it its 2024 Lie of the Year."
+  },
+  {
+    "id": 54,
+    "lie": "We have 13,099, exactly. … These are people that were in prison, and they're murderers. Some are up for the death penalty but some killed far more than one person. … Every one of them has been released into the United States of America.",
+    "date": "2024-10-22",
+    "year": 2024,
+    "sources": ["FactCheck.org"],
+    "fallacy": "Falsehood / Misrepresentation — Trump implied 13,099 undocumented convicted murderers were set loose by the Biden-Harris administration. The figure is the number of noncitizens convicted of murder who were not ICE-detained — most entered the U.S. before Biden took office, and many were in prisons and jails, not 'on the loose.' It does not reflect anyone released by the current administration."
+  },
+  {
+    "id": 55,
+    "lie": "A lot of talk about massive CHEATING in Philadelphia. Law Enforcement coming!!!",
+    "date": "2024-11-05",
+    "year": 2024,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Conspiracy Theory — Hours before polls closed on Election Day, Trump alleged 'massive cheating' in Philadelphia. No evidence supported the claim; local and state election officials confirmed normal vote-counting procedures. Police reported no intrusion; federal and state authorities found none. The false post echoed his debunked 2020 claims."
+  },
+  {
+    "id": 56,
+    "lie": "I know nothing about Project 2025. I have no idea who is behind it. I disagree with some of the things they're saying and some of the things they're saying are absolutely ridiculous and abysmal. Anything they do, I wish them luck, but I have nothing to do with them.",
+    "date": "2024-07-05",
+    "year": 2024,
+    "sources": ["PolitiFact", "CNN"],
+    "fallacy": "Misrepresentation / Evasion — Trump claimed total ignorance of Project 2025, a right-wing transition blueprint. CNN identified at least 140 former Trump-administration officials involved in the project, many of his platform items overlapped with its proposals, and his campaign printed an agenda aligned with its goals. The blanket denial misrepresented the depth of his ties."
+  },
+  {
+    "id": 57,
+    "lie": "We had a landslide election. … We won every swing state. We won the popular vote by millions and millions of people. Nobody even knows how many people, millions, and they're still counting in some areas.",
+    "date": "2025-01-07",
+    "year": 2025,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Misrepresentation — A day after Congress certified his 2024 victory, Trump claimed votes were 'still counting.' All states had certified results in November or December, the Electoral College voted, and Congress accepted them Jan. 6. His popular-vote margin was about 2.3 million — not unknowable 'millions and millions.' Remaining state-race litigation is not ballot counting."
+  },
+  {
+    "id": 58,
+    "lie": "And we also want them to release the water. If they released the water, they wouldn't have had a problem. If they released the water when I told them to … you might not have even had a fire.",
+    "date": "2025-01-24",
+    "year": 2025,
+    "sources": ["FactCheck.org", "Associated Press", "Los Angeles Times"],
+    "fallacy": "Falsehood / False Cause — Trump claimed California's Southern wildfires could have been prevented if more water were released from the north, and threatened to condition federal aid on the state enacting voter ID and water changes. Experts attributed the blazes to extreme drought and Santa Ana winds; there is no water 'spigot' that can fight wildfires, and California already requires ID to register to vote."
+  },
+  {
+    "id": 59,
+    "lie": "Over the past four years, 21 million people poured into the United States. Many of them were murderers, human traffickers, gang members, and other criminals from the streets of the world's most dangerous cities due to Joe Biden's insane and very dangerous open border policies.",
+    "date": "2025-03-04",
+    "year": 2025,
+    "sources": ["Associated Press", "PolitiFact"],
+    "fallacy": "Falsehood / Misrepresentation — Trump's '21 million' conflated border encounters with unique people entering — the same person can be stopped multiple times. CBP recorded roughly 14 million encounters over the four years, not 21 million arrivals. And the broad claim that many migrants are murderers, traffickers or gang members is unsupported: studies consistently show immigrants commit crime at lower rates than native-born Americans."
+  },
+  {
+    "id": 60,
+    "lie": "Elon [Musk] is helping the Doge team to find billions and billions of dollars in waste, fraud and abuse. … including $8 million for making mice transgender.",
+    "date": "2025-03-04",
+    "year": 2025,
+    "sources": ["NBC News", "Snopes", "PBS NewsHour"],
+    "fallacy": "Falsehood / Misrepresentation — In his address to Congress, Trump said the government spent $8 million 'making mice transgender.' The NIH-funded studies merely examined how gender-affirming hormones affect conditions such as asthma, immunity and breast-cancer risk — standard medical research, not research to 'make mice transgender.' The figure itself was drawn from a watchdog report that overstated the grants."
+  },
+  {
+    "id": 61,
+    "lie": "[Medical professionals] are sterilizing a growing number of impressionable children.",
+    "date": "2025-01-28",
+    "year": 2025,
+    "sources": ["PolitiFact", "NBC News"],
+    "fallacy": "Falsehood / Exaggeration — Trump's executive order claimed gender-affirming care is 'sterilizing a growing number of impressionable children.' Gender-affirming surgery on minors is very rare — particularly irreversible genital surgeries — and, under major medical associations, only the most severe cases receive care. The order, which framed these procedures as 'junk science,' was later partly blocked by federal judges."
+  },
+  {
+    "id": 62,
+    "lie": "I was proudly responsible for the ending of something that all legal scholars, both sides, wanted, and in fact demanded: Roe v. Wade. They wanted it ended.",
+    "date": "2024-04-08",
+    "year": 2024,
+    "sources": ["PolitiFact", "CNN"],
+    "fallacy": "Falsehood / Overgeneralization — Trump claimed 'all legal scholars, both sides' wanted Roe overturned. Before the 2022 Dobbs ruling, numerous law professors filed amicus briefs urging the Court to uphold Roe, and many legal scholars fiercely criticized the decision. PolitiFact rated the claim False. Trump also overstated that Roe's end left abortion 'where everybody wanted it from a legal standpoint' — polls show most Americans opposed its reversal."
+  },
+  {
+    "id": 63,
+    "lie": "The Democrats are the radical ones on this position because they support abortion up to and even beyond the ninth month, the concept of having an abortion in the later months and even execution after birth. … The baby is born, the baby is executed after birth.",
+    "date": "2024-04-08",
+    "year": 2024,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood / Straw Man — No state allows killing a newborn. Infanticide is illegal in all 50 states, and 'execution after birth' is not a recognized position or practice. Late-term abortions occur only in rare, dire medical circumstances. PolitiFact rated the 'execution after birth' claim False, noting it fabricated a Democratic position that does not exist."
+  },
+  {
+    "id": 64,
+    "lie": "I didn't know she was Black until a number of years ago, when she happened to turn Black, and now she wants to be known as Black. So, I don't know, is she Indian or is she Black?",
+    "date": "2024-07-31",
+    "year": 2024,
+    "sources": ["PolitiFact", "CNN", "FactCheck.org", "Associated Press"],
+    "fallacy": "Falsehood / Misrepresentation — At the National Association of Black Journalists convention, Trump falsely suggested Kamala Harris only recently 'became' Black. Harris has always identified as both Black and Indian American; she attended a historically Black university and served in the Congressional Black Caucus. Her father is Jamaican, her mother Indian. PolitiFact, CNN, FactCheck.org and AP all debunked the claim."
+  },
+  {
+    "id": 65,
+    "lie": "I had no inflation, virtually no inflation. They had the highest inflation perhaps in the history of our country. … We had the greatest economy in the history of our country.",
+    "date": "2024-09-10",
+    "year": 2024,
+    "sources": ["FactCheck.org", "Associated Press", "Snopes"],
+    "fallacy": "Falsehood / Exaggeration — Inflation was not zero under Trump (CPI rose 7.6% over his term, ~1.9% a year), and Biden-era inflation peaked at 9.1% in 2022 — far below the double-digit rates of the 1970s and early 1980s. GDP also grew faster under Clinton and Reagan; the economy shrank 2.2% in Trump's final year. Snopes and FactCheck rated the claims False."
+  },
+  {
+    "id": 66,
+    "lie": "I'll get the war with Ukraine and Russia ended. If I'm president-elect, I'll get it done before even becoming president.",
+    "date": "2024-09-10",
+    "year": 2024,
+    "sources": ["CNN", "PolitiFact"],
+    "fallacy": "Overreach / False Promise — Trump repeatedly (CNN counted dozens of times) promised to end the Russia-Ukraine war within 24 hours or before taking office. The war continued well past his January 2025 inauguration and first day in office. No mechanism was offered for delivering peace on that timeline, and his own officials later abandoned the 24-hour framing."
+  },
+  {
+    "id": 67,
+    "lie": "And, above all, China is operating the Panama Canal.",
+    "date": "2025-01-20",
+    "year": 2025,
+    "sources": ["PolitiFact", "Associated Press", "USA Today"],
+    "fallacy": "Falsehood / Misrepresentation — In his inaugural address, Trump claimed China operates the Panama Canal. Panama has owned and administered the canal since Dec. 31, 1999, via the autonomous Panama Canal Authority. Chinese influence is limited to a Hong Kong-based firm operating two ports at the canal's ends, while authority over the waterway remains with the Panamanian government."
+  },
+  {
+    "id": 68,
+    "lie": "We will tariff and tax foreign countries to enrich our citizens.",
+    "date": "2025-01-20",
+    "year": 2025,
+    "sources": ["PolitiFact", "FactCheck.org"],
+    "fallacy": "Falsehood / Misrepresentation — Trump's inaugural claim that tariffs fall on foreign countries is backwards. U.S. importers pay customs duties, and the cost is largely passed to American consumers as higher prices. Economists and the Tax Foundation found first-term tariffs were 'passed almost entirely through to US firms or final consumers,' making them a regressive tax on U.S. households."
+  },
+  {
+    "id": 69,
+    "lie": "I changed the Obama policy, and we had a very good policy. … And then Biden came in and he changed it.",
+    "date": "2025-01-30",
+    "year": 2025,
+    "sources": ["PolitiFact", "Associated Press", "Reuters"],
+    "fallacy": "Falsehood / False Cause — Hours after the deadly Washington air crash, Trump blamed FAA diversity hiring, claiming he ended an Obama policy that Biden 'reinstated.' Trump actually expanded disability hiring in 2019, and Biden did not reinstate the hiring assessment Trump ended in 2018. Investigators found no evidence DEI policies caused the crash, which remained under investigation."
+  },
+  {
+    "id": 70,
+    "lie": "You should have never started it. … You could have made a deal.",
+    "date": "2025-02-18",
+    "year": 2025,
+    "sources": ["PolitiFact", "BBC"],
+    "fallacy": "Falsehood / Historical Revisionism — Trump echoed Kremlin talking points claiming Ukraine started the war with Russia. Russia launched an unprovoked full-scale invasion on Feb. 24, 2022, after Ukraine voted overwhelmingly for Zelenskyy in 2019. PolitiFact rated the claim Pants on Fire, and Ukraine's leader accused Trump of 'living in a disinformation space.'"
+  },
+  {
+    "id": 71,
+    "lie": "[Zelenskyy is] A Dictator without Elections.",
+    "date": "2025-02-19",
+    "year": 2025,
+    "sources": ["PolitiFact", "BBC", "Al Jazeera"],
+    "fallacy": "Falsehood / Misrepresentation — Trump called Ukraine's president a 'dictator without elections.' Zelenskyy was democratically elected in 2019 with over 73% of the vote; elections were suspended solely because martial law — imposed after Russia's invasion — legally forbids them, as in many wartime democracies. A Georgetown professor compared his case to Britain postponing elections during WWII."
   }
 ]
