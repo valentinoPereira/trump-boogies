@@ -45,7 +45,7 @@ Each entry in `src/_data/lies.json` has the following shape:
 }
 ```
 
-Add a new entry by appending a new object to the array. The site will rebuild automatically during development.
+Add a new entry by appending a new object to the array. The site will rebuild automatically during development. By default, the list is rendered in **descending order by date** (newest lie first), via the `sortByDateDesc` filter in `.eleventy.js`.
 
 ## Getting Started
 

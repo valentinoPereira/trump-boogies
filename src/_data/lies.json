@@ -118,5 +118,133 @@
     "year": 2020,
     "sources": ["The Washington Post", "AP", "The New York Times"],
     "fallacy": "Evasion of Responsibility — A commander-in-chief's statement during an escalating public health crisis, contradicting the expected role of leadership."
+  },
+  {
+    "id": 16,
+    "lie": "The Mexican government … they send the bad ones over.",
+    "date": "2015-06-16",
+    "year": 2015,
+    "sources": ["PolitiFact", "The Washington Post"],
+    "fallacy": "Pants on Fire / Fabrication — No evidence shows the Mexican government encourages criminals to cross the border; most illegal immigration is people seeking work, and Mexican immigration had dropped sharply during and after the recession."
+  },
+  {
+    "id": 17,
+    "lie": "Our real unemployment is anywhere from 18 to 20 percent. Don't believe the 5.6. Don't believe it.",
+    "date": "2015-06-16",
+    "year": 2015,
+    "sources": ["PolitiFact", "FactCheck.org", "USA Today"],
+    "fallacy": "Falsehood / Exaggeration — The official U-6 underemployment rate was 10.8%; even the most expansive alternative measures could not plausibly exceed 16%, and the actual rate was 5.5%, not 5.6%."
+  },
+  {
+    "id": 18,
+    "lie": "Even our nuclear arsenal doesn't work. It came out recently they have equipment that is 30 years old. They don't know if it worked.",
+    "date": "2015-06-16",
+    "year": 2015,
+    "sources": ["PolitiFact", "FactCheck.org"],
+    "fallacy": "Falsehood — Recent lapses in the U.S. nuclear program involved personnel and command-and-control problems, not equipment that 'doesn't work.' The Pentagon and Energy Department annually certify the arsenal as safe, secure, and effective."
+  },
+  {
+    "id": 19,
+    "lie": "Last quarter, it was just announced our gross domestic product … was below zero. Whoever heard of this? It's never below zero.",
+    "date": "2015-06-16",
+    "year": 2015,
+    "sources": ["PolitiFact", "FactCheck.org"],
+    "fallacy": "Pants on Fire / Falsehood — GDP growth has been below zero 42 times since 1946; the economy itself is in the trillions of dollars and never near zero."
+  },
+  {
+    "id": 20,
+    "lie": "When was the last time you saw a Chevrolet in Tokyo? It doesn't exist, folks. They beat us all the time.",
+    "date": "2015-06-16",
+    "year": 2015,
+    "sources": ["PolitiFact"],
+    "fallacy": "Mostly False / Exaggeration — Chevrolet sold 597 cars in Japan in 2014; the brand exists there, even if sales are small. The U.S.–Japan auto trade imbalance is real, but the absolute claim of nonexistence is false."
+  },
+  {
+    "id": 21,
+    "lie": "Islamic terrorism is eating up large portions of the Middle East. … They just built a hotel in Syria. Can you believe this? They built a hotel.",
+    "date": "2015-06-16",
+    "year": 2015,
+    "sources": ["PolitiFact"],
+    "fallacy": "Falsehood — ISIS did not build a hotel; it seized an existing hotel in Iraq and uses it to house commanders, not to attract paying guests."
+  },
+  {
+    "id": 22,
+    "lie": "I write a book called The Art of the Deal, the No. 1 selling business book of all time, at least I think, but I'm pretty sure it is.",
+    "date": "2015-07-01",
+    "year": 2015,
+    "sources": ["PolitiFact", "Inc."],
+    "fallacy": "Falsehood / Self-Aggrandizement — Nielsen BookScan data shows The Art of the Deal has sold roughly 177,000–184,000 copies since 2001, far fewer than multiple other business titles (e.g., The 7 Habits of Highly Effective People, Built to Last, The One Minute Manager)."
+  },
+  {
+    "id": 23,
+    "lie": "You have illegal immigrants pouring through the country. … They're incarcerated. Many of them are in jails. You have hundreds of thousands of people going to state and federal penitentiaries. That just came out in a Homeland Security Report.",
+    "date": "2015-07-01",
+    "year": 2015,
+    "sources": ["PolitiFact", "The Washington Post"],
+    "fallacy": "Falsehood / Fabricated Statistic — Homeland Security confirmed it does not regularly track the incarcerated illegal-immigrant population, and no such report exists. Bureau of Justice Statistics data shows roughly 90,000 noncitizens in state and federal prisons at year-end 2013, not 'hundreds of thousands.'"
+  },
+  {
+    "id": 24,
+    "lie": "I don't think that [11 million] is an accurate number anymore. I am now hearing it's 30 million, it could be 34 million, which is a much bigger problem.",
+    "date": "2015-07-24",
+    "year": 2015,
+    "sources": ["PolitiFact"],
+    "fallacy": "Pants on Fire — Every credible estimate (Department of Homeland Security, Pew, Center for Migration Studies) puts the unauthorized immigrant population at roughly 11 million, with a margin of error of about one million. No researcher has published a number near 30 million."
+  },
+  {
+    "id": 25,
+    "lie": "We have a real unemployment rate that's probably 21%. … Because you have ninety million people that aren't working. Ninety-three million to be exact. If you start adding it up, our real unemployment rate is 42%.",
+    "date": "2015-08-20",
+    "year": 2015,
+    "sources": ["The Washington Post", "PolitiFact", "FactCheck.org"],
+    "fallacy": "Pants on Fire / Falsehood — Even the most expansive alternative unemployment measures top out near 16.4%; the figure appears to conflate the labor-force participation rate (the share of adults not in the labor force, including retirees, students, and stay-at-home parents) with unemployment."
+  },
+  {
+    "id": 26,
+    "lie": "Look, we're the most highly taxed nation in the world — that's why taxes have to go down, business has to come back, jobs have to be back.",
+    "date": "2015-08-24",
+    "year": 2015,
+    "sources": ["PolitiFact", "OECD"],
+    "fallacy": "Falsehood — The U.S. total tax burden was about 26% of GDP in 2014, well below most OECD peers; even on corporate tax rates, the U.S. statutory rate was the highest but its effective rate was not. The U.S. is not 'the most highly taxed nation in the world' on any common measure."
+  },
+  {
+    "id": 27,
+    "lie": "I am the only person on this dais — the only person — that fought very, very hard against us … going into Iraq. … I was so vocal about it. … A delegation was sent to my office to see me because I was so vocal about it.",
+    "date": "2015-09-16",
+    "year": 2015,
+    "sources": ["The Washington Post", "PolitiFact", "FactCheck.org"],
+    "fallacy": "Falsehood / Self-Serving Bias — On September 11, 2002 (six months before the invasion), Trump told Howard Stern he supported invading Iraq ('Yeah, I guess so.'). His earliest known public criticism came in an August 2004 Esquire interview — 17 months after the war began. There is no evidence of a Bush White House delegation to 'silence' him."
+  },
+  {
+    "id": 28,
+    "lie": "You take this little beautiful baby and you pump it with what looks like it's meant for a horse, not a child. … I am totally in favor of vaccines. But I want smaller doses over a longer period of time. … I believe autism will go way down.",
+    "date": "2015-09-17",
+    "year": 2015,
+    "sources": ["PolitiFact", "American Academy of Pediatrics"],
+    "fallacy": "Pants on Fire / False Cause — Decades of epidemiological research, including CDC studies and the Institute of Medicine, have found no link between vaccines and autism. Spreading out doses beyond the recommended schedule has no demonstrated benefit and increases the window of susceptibility to disease."
+  },
+  {
+    "id": 29,
+    "lie": "The unemployment rate is probably 20 percent, but I will tell you, you have some great economists that will tell you it's a 30, 32. And the highest I've heard so far is 42 percent.",
+    "date": "2015-09-28",
+    "year": 2015,
+    "sources": ["PolitiFact", "The Washington Post"],
+    "fallacy": "Pants on Fire — No recognized economist or government statistic supports a 42% unemployment rate. The figure traces to a column by David Stockman counting retirees, students, stay-at-home parents, and people with disabilities as 'unemployed.'"
+  },
+  {
+    "id": 30,
+    "lie": "I watched when the World Trade Center came tumbling down. And I watched in Jersey City, N.J., where thousands and thousands of people were cheering as that building was coming down. Thousands of people were cheering.",
+    "date": "2015-11-21",
+    "year": 2015,
+    "sources": ["PolitiFact", "The Washington Post", "FactCheck.org"],
+    "fallacy": "Pants on Fire / Fabricated Event — Exhaustive searches of contemporary newspaper and broadcast records (including LexisNexis and the AP) found no evidence — and certainly no video — of 'thousands' of New Jersey residents celebrating on 9/11. The closest items were a few uncorroborated rumors, debunked at the time."
+  },
+  {
+    "id": 31,
+    "lie": "[Tweet graphic, 'USA Crime Statistics–2015':] 'Whites killed by whites — 16%. Whites killed by blacks — 81%.'",
+    "date": "2015-11-23",
+    "year": 2015,
+    "sources": ["PolitiFact", "FBI Uniform Crime Reporting"],
+    "fallacy": "Pants on Fire / False Statistics — FBI data show the opposite of what the graphic claimed: in 2014, about 82% of white homicide victims were killed by whites and about 15% by blacks. The graphic also misrepresented every other racial category, and cited a nonexistent 'Crime Statistics Bureau.'"
   }
 ]

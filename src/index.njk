@@ -38,7 +38,7 @@ eleventyExcludeFromCollections: true
 
 <section class="archive" id="results">
   <ul class="lie-list" id="lie-list">
-    {% for lie in lies %}
+    {% for lie in lies | sortByDateDesc %}
       <li class="lie-item" data-year="{{ lie.year }}" data-search="{{ lie.lie | lower }} {{ lie.sources | join(' ') | lower }} {{ lie.fallacy | lower }}">
         <article>
           <header class="lie-header">
