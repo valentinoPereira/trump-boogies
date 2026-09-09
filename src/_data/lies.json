@@ -622,5 +622,117 @@
     "year": 2023,
     "sources": ["Reuters", "NBC News"],
     "fallacy": "Falsehood / Dehumanizing Stereotype — Trump claimed undocumented immigrants were 'poisoning the blood of our country,' adding they come 'from prisons' and 'mental institutions' and that '15, 16 million' entered. The numbers conflated encounters with unique people, and there is no evidence immigrants disproportionately come from prisons or mental institutions. The 'poisoning the blood' phrasing drew wide condemnation for echoing Nazi rhetoric; Trump later denied knowing Hitler used it."
+  },
+  {
+    "id": 79,
+    "lie": "His father was with Lee Harvey Oswald prior to Oswald's being, you know, shot. … What was he doing — what was he doing with Lee Harvey Oswald shortly before the death? Before the shooting?",
+    "date": "2016-05-03",
+    "year": 2016,
+    "sources": ["PolitiFact", "FactCheck.org", "The Washington Post"],
+    "fallacy": "Fabrication / Smear — Citing a National Enquirer story, Trump alleged Rafael Cruz appeared in a 1963 photo with JFK's assassin. Photo experts told PolitiFact the grainy image could not support that identification, and historians of the period said they had never seen Cruz's name connected to Oswald. Rated Pants on Fire by PolitiFact."
+  },
+  {
+    "id": 80,
+    "lie": "The killer, whose name I will not use, or ever say, was born in Afghan, of Afghan parents, who immigrated to the United States.",
+    "date": "2016-06-13",
+    "year": 2016,
+    "sources": ["The Associated Press", "NPR", "CBS News"],
+    "fallacy": "Falsehood — The Orlando nightclub shooter, Omar Mateen, was born in New York and was a U.S. citizen; only his parents emigrated from Afghanistan. Trump's speech framed the attack as the work of a foreign-born immigrant, which the shooter was not."
+  },
+  {
+    "id": 81,
+    "lie": "In many respects, they honor President Obama. ISIS is honoring President Obama. He is the founder of ISIS. He's the founder. He founded ISIS. And I would say the co-founder would be Crooked Hillary Clinton.",
+    "date": "2016-08-10",
+    "year": 2016,
+    "sources": ["FactCheck.org", "PolitiFact", "The Washington Post"],
+    "fallacy": "False Attribution / Fabrication — The group was founded as al-Qaeda in Iraq by Abu Musab al-Zarqawi in 2004, before Obama held national office; Obama, then a state senator, had opposed the 2003 invasion. When Hugh Hewitt offered him a softer interpretation, Trump explicitly rejected it and insisted he meant 'founder' literally. Two days later he retroactively labeled the claim 'sarcasm.'"
+  },
+  {
+    "id": 82,
+    "lie": "Hillary Clinton and her campaign of 2008 started the birther controversy. I finished it.",
+    "date": "2016-09-16",
+    "year": 2016,
+    "sources": ["PolitiFact", "FactCheck.org", "The Washington Post"],
+    "fallacy": "Falsehood — No evidence exists that Clinton or her 2008 campaign promoted the theory that Obama was born outside the U.S.; some unaffiliated Clinton supporters circulated emails, but researchers traced birtherism to conservative message boards. Trump had spent five years pushing the claim himself. Rated False by PolitiFact and Four Pinocchios by The Washington Post."
+  },
+  {
+    "id": 83,
+    "lie": "We got 306 because people came out and voted like they've never seen before. … I guess it was the biggest Electoral College win since Ronald Reagan.",
+    "date": "2017-02-16",
+    "year": 2017,
+    "sources": ["FactCheck.org", "NBC News", "The New York Times"],
+    "fallacy": "Falsehood — Trump officially received 304 electoral votes. Since Reagan, George H.W. Bush won 426 (1988), Bill Clinton 370 (1992) and 379 (1996), and Obama 365 (2008) and 332 (2012) — all larger. When challenged at the same news conference, Trump conceded only that he 'was given that information.'"
+  },
+  {
+    "id": 84,
+    "lie": "Terrible! Just found out that Obama had my ‘wires tapped’ in Trump Tower just before the victory. Nothing found. This is McCarthyism!",
+    "date": "2017-03-04",
+    "year": 2017,
+    "sources": ["FactCheck.org", "The Associated Press", "The New York Times"],
+    "fallacy": "Baseless Accusation — No evidence supported the tweet; President Obama's office denied it as 'simply false,' and presidents cannot lawfully order such surveillance themselves. FBI Director James Comey testified to Congress on March 20, 2017 that neither the FBI nor the Justice Department had any information supporting the tweets, and former DNI James Clapper said no FISA warrant existed for Trump Tower."
+  },
+  {
+    "id": 85,
+    "lie": "He was really angry that he saw what was happening with regard to the Civil War. He said, ‘There's no reason for this.’",
+    "date": "2017-05-01",
+    "year": 2017,
+    "sources": ["The New York Times", "The Associated Press", "Snopes"],
+    "fallacy": "Falsehood / Anachronism — Trump claimed Andrew Jackson, who died in 1845, was angered by the Civil War, which began in 1861 — sixteen years after Jackson's death. He also suggested Jackson could have prevented the war, a claim Civil War historians called incoherent given that the war's core dispute was slavery."
+  },
+  {
+    "id": 86,
+    "lie": "If you look at President Obama and other presidents, most of them didn't make calls. A lot of them didn't make calls. I like to call when it's appropriate, when I think I'm able to do it.",
+    "date": "2017-10-16",
+    "year": 2017,
+    "sources": ["The New York Times", "The Washington Post", "NBC News"],
+    "fallacy": "Falsehood / Self-Aggrandizement — There is an extensive record of Obama calling, writing to, and meeting families of fallen service members. Pressed later in the same news conference, Trump admitted he did not actually know what Obama's practice was."
+  },
+  {
+    "id": 87,
+    "lie": "It's the largest tax cut in the history of our country.",
+    "date": "2017-12-20",
+    "year": 2017,
+    "sources": ["The Associated Press", "CBS News"],
+    "fallacy": "Exaggeration / Falsehood — By the Committee for a Responsible Federal Budget's analysis, the 2017 tax cuts ranked about eighth largest since 1918; as a share of the economy, Reagan's 1981 cut was the biggest, followed by the 1945 rollback of World War II taxes, with earlier cuts in 1948, 1964, and 1921 also larger."
+  },
+  {
+    "id": 88,
+    "lie": "No. No. What else? … Michael is my attorney. And you'll have to ask Michael Cohen.",
+    "date": "2018-04-05",
+    "year": 2018,
+    "sources": ["The Associated Press", "FactCheck.org"],
+    "fallacy": "Denial Contradicted by the Record — Asked aboard Air Force One whether he knew about the $130,000 payment to Stormy Daniels, Trump said no and said he didn't know where the money came from. In May 2018 his attorney Rudy Giuliani said Trump had reimbursed Cohen for the payment, Trump's own financial disclosure reported reimbursing Cohen $100,001–$250,000, and Cohen pleaded guilty that August, saying he made the payment 'at the direction of' Trump. FactCheck.org concluded Trump's April 5 statement 'would appear' to have misled the public."
+  },
+  {
+    "id": 89,
+    "lie": "Put pressure on the Democrats to end the horrible law that separates children from there [sic] parents once they cross the Border into the U.S.",
+    "date": "2018-05-26",
+    "year": 2018,
+    "sources": ["PolitiFact", "NPR", "The Associated Press"],
+    "fallacy": "False Attribution — No law mandated separating children from parents at the border. The separations resulted from the zero-tolerance policy announced by Attorney General Jeff Sessions on April 6, 2018, the Trump administration's own decision to prosecute all illegal crossings. Rated False by PolitiFact."
+  },
+  {
+    "id": 90,
+    "lie": "The people of Germany are turning against their leadership as migration is rocking the already tenuous Berlin coalition. Crime in Germany is way up.",
+    "date": "2018-06-18",
+    "year": 2018,
+    "sources": ["PolitiFact", "The New York Times", "The Washington Post"],
+    "fallacy": "Falsehood — German government statistics released in May 2018 showed crime in Germany fell about 10 percent from 2016 to 2017, reaching its lowest level since 1992. He followed with a tweet claiming crime was 'up 10% plus,' which was also the opposite of the official figures."
+  },
+  {
+    "id": 91,
+    "lie": "The GDP Rate (4.2%) is higher than the Unemployment Rate (3.9%) for the first time in over 100 years!",
+    "date": "2018-09-10",
+    "year": 2018,
+    "sources": ["The New York Times", "FactCheck.org"],
+    "fallacy": "Falsehood — GDP growth exceeded the unemployment rate in 185 months since 1948, most recently in early 2006, per Federal Reserve data. Kevin Hassett, chairman of the Council of Economic Advisers, publicly acknowledged the tweet was not accurate and that the correct figure was 10 years, not 100."
+  },
+  {
+    "id": 92,
+    "lie": "You just got one of the biggest pay raises you ever received. … You haven't gotten one in more than 10 years. More than 10 years. And we got you a big one. I got you a big one.",
+    "date": "2018-12-26",
+    "year": 2018,
+    "sources": ["The Associated Press", "Military Times"],
+    "fallacy": "Falsehood — U.S. service members have received a pay raise every year for decades; the 2018 raise was 2.4 percent and the 2019 raise 2.6 percent, while 2008, 2009, and 2010 raises were all 3.4 percent or higher. He also told troops he had insisted on 'more than 10 percent,' which the 2.6 percent raise plainly fell short of."
   }
 ]
